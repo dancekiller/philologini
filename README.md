@@ -4,3 +4,23 @@
 
 
 ![mary](https://cs5.pikabu.ru/post_img/big/2015/12/01/3/1448935601133648135.jpg)
+
+![freq](частаяксюша.jpg)
+
+![beauty](красиваяксюша.jpg)
+
+![maryfr](частаямэри.jpg)
+
+![merybeau](красиваямэри.jpg)
+
+![know](ксюшазнает.jpg)
+
+![maryknow](мэризнает.jpg)
+
+![can](ксюшаможет.jpg)
+
+![marycan](мэриможет.jpg)
+
+![life](жизньуксюши.jpg)
+
+![marylife](жизньумэри.jpg)
